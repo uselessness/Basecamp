@@ -10,5 +10,7 @@ http://follow.maccraig.net
 
 ## how to help
 things we need:
+
   -MySQL integration help
+  
   -experience with social media API's
