@@ -1,7 +1,7 @@
 # follow
 follow someone. like in a totally not weird way.
 
-[img]https://david-dm.org/uselessness/follow.svg[/img]
+[![devDependency Status](https://img.shields.io/david/dev/twbs/bootstrap.svg?style=flat)](https://david-dm.org/twbs/bootstrap#info=devDependencies)
 
 follow is being developed as a simple way to consolidate social media. use the site to connect all social media accounts, and allow page visitors to follow all outlets at once.
 
