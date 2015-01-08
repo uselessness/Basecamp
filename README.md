@@ -5,7 +5,7 @@ follow is being developed as a simple way to consolidate social media. use the s
 
 profile template
 
-http://follow.maccraig.net
+out of date!
 
 
 ## how to help
