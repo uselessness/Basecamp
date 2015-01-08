@@ -8,12 +8,14 @@ example page(s)
 http://uselessness.github.io/follow
 
 
-## how to help
-things we need:
+## thanks
+thanks to bootstrap for being awesome.
+https://github.com/twbs/bootstrap
+http://getbootstrap.com
 
-  -MySQL integration help
-  
-  -experience with social media API's
+
+
+
 
 
 https://docs.google.com/document/d/17WySSKLLE6JL36WZQPEq6XlFaNS_eESmAsbD-Y13B88/edit?usp=sharing
