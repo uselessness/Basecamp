@@ -1,5 +1,6 @@
 # follow
-follow someone. like in a totally not weird way.
+
+UNDER DEVELOPMENT. the project is [not] in working condition at it's current state.
 
 [![devDependency Status](https://img.shields.io/david/dev/uselessness/follow.svg?style=flat)](https://david-dm.org/uselessness/follow#info=devDependencies)
 
