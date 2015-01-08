@@ -14,3 +14,6 @@ things we need:
   -MySQL integration help
   
   -experience with social media API's
+
+
+https://docs.google.com/document/d/17WySSKLLE6JL36WZQPEq6XlFaNS_eESmAsbD-Y13B88/edit?usp=sharing
