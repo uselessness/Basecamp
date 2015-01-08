@@ -10,7 +10,9 @@ http://uselessness.github.io/follow
 
 ## thanks
 thanks to bootstrap for being awesome.
+
 https://github.com/twbs/bootstrap
+
 http://getbootstrap.com
 
 
