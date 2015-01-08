@@ -3,9 +3,9 @@ follow someone. like in a totally not weird way.
 
 follow is being developed as a simple way to consolidate social media. use the site to connect all social media accounts, and allow page visitors to follow all outlets at once.
 
-profile template
+example page(s)
 
-out of date!
+http://uselessness.github.io/follow
 
 
 ## how to help
