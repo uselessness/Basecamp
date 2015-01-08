@@ -1,7 +1,7 @@
 # follow
 follow someone. like in a totally not weird way.
 
-https://david-dm.org/uselessness/follow.svg
+[img]https://david-dm.org/uselessness/follow.svg[/img]
 
 follow is being developed as a simple way to consolidate social media. use the site to connect all social media accounts, and allow page visitors to follow all outlets at once.
 
