@@ -8,7 +8,10 @@ follow is being developed as a simple way to consolidate social media. use the s
 
 example page(s)
 
-http://uselessness.github.io/follow
+[homepage](http://uselessness.github.io/follow)
+
+[profile page](http://uselessness.github.io/follow/example)
+
 
 
 ### thanks
