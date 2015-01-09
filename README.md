@@ -10,9 +10,9 @@ example page(s)
 
 [homepage](http://uselessness.github.io/follow)
 
-[profile page](http://uselessness.github.io/follow/user/example)
+[profile page](http://uselessness.github.io/follow/users/example)
 
-[profile page](http://uselessness.github.io/follow/user/maccraig)
+[mac's page](http://uselessness.github.io/follow/users/maccraig/)
 
 
 
