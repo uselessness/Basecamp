@@ -1,4 +1,4 @@
-### Basecamp
+#### Basecamp
 
 UNDER DEVELOPMENT. the project is [not] in working condition at it's current state.
 
@@ -16,7 +16,7 @@ example page(s)
 
 
 
-### thanks
+##### thanks
 thanks to bootstrap for being awesome.
 
 https://github.com/twbs/bootstrap
@@ -26,6 +26,6 @@ http://getbootstrap.com
 
 
 
-###notes
+#####notes
 
 https://docs.google.com/document/d/17WySSKLLE6JL36WZQPEq6XlFaNS_eESmAsbD-Y13B88/edit?usp=sharing
