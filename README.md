@@ -8,13 +8,13 @@ Basecamp is being developed as a simple way to consolidate social media. use the
 
 example page(s)
 
-[homepage](http://uselessness.github.io/follow)
+[homepage](http://uselessness.github.io/basecamp)
 
-[profile page](http://uselessness.github.io/follow/users/example)
+[profile page](http://uselessness.github.io/basecamp/users/example)
 
-[mac's page](http://uselessness.github.io/follow/users/maccraig/)
+[mac's page](http://uselessness.github.io/basecamp/users/maccraig/)
 
-
+<br>
 
 ##### thanks
 thanks to bootstrap for being awesome.
@@ -24,7 +24,7 @@ https://github.com/twbs/bootstrap
 http://getbootstrap.com
 
 
-
+<br>
 
 #####notes
 
