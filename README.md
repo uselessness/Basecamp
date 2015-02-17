@@ -17,8 +17,7 @@ example page(s)
 <br>
 
 #### contributing
-the project is currently closed for about 2 weeks, and after this point, any commits will be looked over.
-thanks for anybody looking over the code and submitting changes.
+the project is open for contributions.
 
 <br>
 
