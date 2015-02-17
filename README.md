@@ -1,8 +1,7 @@
 #### Basecamp
 
-UNDER DEVELOPMENT. the project is [not] in working condition at it's current state.
 
-[![devDependency Status](https://img.shields.io/david/dev/uselessness/basecamp.svg?style=flat)](https://david-dm.org/uselessness/basecamp#info=devDependencies)
+(https://img.shields.io/badge/status-working-green.svg)
 
 Basecamp is being developed as a simple way to consolidate social media. use the site to connect all social media accounts, and allow page visitors to follow all outlets at once.
 
