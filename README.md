@@ -1,7 +1,8 @@
 #### Basecamp
 
 
-(https://img.shields.io/badge/status-working-green.svg)
+[![build status](https://img.shields.io/badge/status-working-green.svg)](https://travis-ci.org/badges/shields)
+
 
 Basecamp is being developed as a simple way to consolidate social media. use the site to connect all social media accounts, and allow page visitors to follow all outlets at once.
 
