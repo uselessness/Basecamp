@@ -7,7 +7,7 @@
 
 Basecamp is being developed as a simple way to consolidate social media. use the site to connect all social media accounts, and allow page visitors to follow all outlets at once.
 
-example page(s)
+#### Example pages:
 
 [homepage](http://uselessness.github.io/basecamp)
 
@@ -17,21 +17,11 @@ example page(s)
 
 <br>
 
-#### contributing
-the project is open for contributions.
+#### Contributing
+The project is open for contributions.
 
 <br>
 
-##### thanks
-thanks to bootstrap for being awesome.
-
-https://github.com/twbs/bootstrap
-
+##### Special Thanks
+Thanks to bootstrap for being awesome. 
 http://getbootstrap.com
-
-
-<br>
-
-#####notes
-
-https://docs.google.com/document/d/17WySSKLLE6JL36WZQPEq6XlFaNS_eESmAsbD-Y13B88/edit?usp=sharing
